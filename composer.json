@@ -1,0 +1,16 @@
+{
+    "name": "tomasz/names",
+    "type": "project",
+    "require": {
+        "league/flysystem": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Tomasz Dąbrowski",
+            "email": "td.tomaszd7@gmail.com"
+        }
+    ],
+        "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
